@@ -15,3 +15,8 @@
 13. (Advanced )  Person mentality by youtube history feed. Inverting that mentality by youtube feed
 14. What type if videos are watched by what type of people and tagging them 
 15.  Weekly Monthly Report (biases, thinking errors, trigers) Detailed as much as Report and tests
+
+
+
+
+existing ideas github repos gist from other tests 
