@@ -19,4 +19,29 @@
 
 
 
-existing ideas github repos gist from other tests 
+
+
+
+
+
+
+
+
+
+
+I am pleased to present my latest project, the WhatsApp Chat Analyzer. 
+
+This tool processes chat text files to generate detailed analyses and visualizations, including trend graphs and interaction patterns. It offers a structured approach to understanding chat data. Your feedback is welcome. hashtag#DataScience hashtag#MachineLearning hashtag#DataAnalysis
+
+Feel free to analyse your chats. the project is deployed on streamlit and it claims to not store the text file that the user uploads (ss below). I haven't connected the database so the file is not saved on my end either.
+
+deployment url : https://lnkd.in/gGRCiwsm
+
+GitHub url : https://lnkd.in/gSfagp5C
+
+
+
+
+
+
+innergize

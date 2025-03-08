@@ -1,1 +1,7 @@
 Here will be the Research Part.
+
+Mood tracker-> daily, weekly, randomly time Mood track, feel, trigger, actions, remedies(level)
+
+
+
+Multiple Tests -> PyschoMetric Tests
